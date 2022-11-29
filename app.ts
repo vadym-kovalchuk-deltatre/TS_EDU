@@ -1,1 +1,1 @@
-console.log("init TS file")
+console.log("init TS file");

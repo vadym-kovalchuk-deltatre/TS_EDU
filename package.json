@@ -1,5 +1,26 @@
 {
   "dependencies": {
     "ts-node": "^10.9.1"
-  }
+  },
+  "name": "ts_edu",
+  "version": "1.0.0",
+  "description": "Training TS courses from Udemy",
+  "main": "app.js",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-server": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadym-kovalchuk-deltatre/TS_EDU.git"
+  },
+  "author": "TeeZ0NE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vadym-kovalchuk-deltatre/TS_EDU/issues"
+  },
+  "homepage": "https://github.com/vadym-kovalchuk-deltatre/TS_EDU#readme"
 }
